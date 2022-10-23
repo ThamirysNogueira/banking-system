@@ -1,5 +1,5 @@
 # banking-system 💵
-###sistema bancário criado em python 
+### sistema bancário criado em python 
 
 regras: 
 
